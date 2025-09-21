@@ -1,4 +1,3 @@
-
 race: White, Asian-Pac-Islander, Amer-Indian-Eskimo, Other, Black.
 age: continuous.
 sex: Female, Male.
