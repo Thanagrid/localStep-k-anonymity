@@ -1,0 +1,7 @@
+
+race: White, Asian-Pac-Islander, Amer-Indian-Eskimo, Other, Black.
+age: continuous.
+sex: Female, Male.
+workclass: Private, Self-emp-not-inc, Self-emp-inc, Federal-gov, Local-gov, State-gov, Without-pay, Never-worked.
+marital-status: Married-civ-spouse, Divorced, Never-married, Separated, Widowed, Married-spouse-absent, Married-AF-spouse.
+Income/year: >50K, <=50K.
